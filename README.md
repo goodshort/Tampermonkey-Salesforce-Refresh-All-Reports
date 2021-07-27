@@ -5,7 +5,7 @@
 This script is used to refresh all the reports on the Salesforce homepage.<br>
 It adds a `refresh All` button on the top left of the Salesforce homepage.<br>
 
-Second button can be found here: [Get Enterprise Contacts](https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts)
+A second button I created for Salesforce: [Get Enterprise Contacts](https://github.com/goodshort/Tampermonkey-Salesforce-Get-Engagement-Contacts)
 
 ## Installation steps
 
